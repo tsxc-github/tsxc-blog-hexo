@@ -535,3 +535,9 @@ OI先放一放，我相信，只要能够渡过这个难关，OI也将指日可�
 2023-8-28
 
 # Day 60
+
+废了九牛二虎之力，终于部署好了！！！
+
+[tsxc的小站 (tsxc-github.github.io)](https://tsxc-github.github.io/)
+
+2023-8-29 21:46
