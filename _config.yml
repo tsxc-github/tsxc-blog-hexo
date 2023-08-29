@@ -103,5 +103,5 @@ theme: Cutie
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:tsxc-github/tsxc-blog.git
+  repository: git@github.com:tsxc-github/tsxc-github.github.io.git
   branch: main
