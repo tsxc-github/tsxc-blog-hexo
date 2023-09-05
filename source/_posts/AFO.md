@@ -361,19 +361,19 @@ OI先放一放，我相信，只要能够渡过这个难关，OI也将指日可�
 
 《室内系的TrackMaker(YUNOMI)（翻自 nicamoq） - Hanser》（当前最爱） 
 
-[audio src="http://4-6.tpddns.cn:7963/blog/uploads/%E5%AE%A4%E5%86%85%E7%B3%BB%E7%9A%84TrackMaker(YUNOMI)%EF%BC%88%E7%BF%BB%E8%87%AA%20nicamoq%EF%BC%89%20-%20Hanser.mp3"][/audio]
+<audio src="http://4-6.tpddns.cn:7963/blog/uploads/%E5%AE%A4%E5%86%85%E7%B3%BB%E7%9A%84TrackMaker(YUNOMI)%EF%BC%88%E7%BF%BB%E8%87%AA%20nicamoq%EF%BC%89%20-%20Hanser.mp3"><audio>
 
 《Unity - TheFatRat》
 
-[audio src="http://4-6.tpddns.cn:7963/blog/uploads/Unity%20-%20TheFatRat.flac"][/audio]
+<audio src="http://4-6.tpddns.cn:7963/blog/uploads/Unity%20-%20TheFatRat.flac"></audio>
 
 《Disco Panzer (feat. R5on11c) - Alan Aztec》
 
-[audio src="http://4-6.tpddns.cn:7963/blog/uploads/Disco%20Panzer%20(feat.%20R5on11c)%20-%20Alan%20Aztec.mp3"][/audio]
+<audio src="http://4-6.tpddns.cn:7963/blog/uploads/Disco%20Panzer%20(feat.%20R5on11c)%20-%20Alan%20Aztec.mp3"><audio>
 
 《献给我仅有的粉丝 - WOVOP》
 
-[audio src="http://4-6.tpddns.cn:7963/blog/uploads/%E7%8C%AE%E7%BB%99%E6%88%91%E4%BB%85%E6%9C%89%E7%9A%84%E7%B2%89%E4%B8%9D%20-%20WOVOP.flac"][/audio]
+<audio src="http://4-6.tpddns.cn:7963/blog/uploads/%E7%8C%AE%E7%BB%99%E6%88%91%E4%BB%85%E6%9C%89%E7%9A%84%E7%B2%89%E4%B8%9D%20-%20WOVOP.flac"><audio>
 
 2023/7/26 11:47
 
