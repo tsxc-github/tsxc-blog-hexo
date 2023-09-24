@@ -554,14 +554,3 @@ OI先放一放，我相信，只要能够渡过这个难关，OI也将指日可�
 2023-9-12 13:18
 
 
-
-
-
-# 评论
-
-这是洛谷的评论区，需要加我的团队才能使用。
-
-[tsxc's team - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/team/44892)
-
-[评论区 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/discuss/692790)
-
