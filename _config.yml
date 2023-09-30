@@ -105,3 +105,6 @@ deploy:
   type: git
   repository: https://github.com/tsxc-github/tsxc-github.github.io.git
   branch: main
+
+aplayer:
+  meting: true
