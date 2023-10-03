@@ -1,5 +1,5 @@
 ---
-title: NOILinux的食用方法
+title: NOILinux的食用方法-基础篇
 date: 2023-10-3 23:37
 ---
 
@@ -160,3 +160,4 @@ date: 2023-10-3 23:37
 安装好了直接重启
 
 ![image-20231003225900493](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003225900493.png)
+
