@@ -1,6 +1,6 @@
 ---
 title: NOILinux的食用方法-基础篇
-date: 2023-10-3 23:04
+date: 2023-10-3 23:42
 ---
 
 当当当，应[@q1uple](https://www.luogu.com.cn/user/539133)的提议，这里火速赶出了一篇*NOI Linux*的食用方法，包含了我在网上根本没搜到的内容。
@@ -21,9 +21,11 @@ date: 2023-10-3 23:04
 
 > 注：笔者在这里花费了大量时间搭建考试环境，就是为了给你们截几张图。其实笔者之前搭建过一个环境，但是使用的软件是*Hyper-v*，而考场用的是*VMware Workstation Player*，所以需要重新搭建环境。
 
-### 家里搭建环境
+### 在家食用
 
-什么，你在机房？这玩意至少要弄一个小时（亲测），而且部分机房有搭建好的环境，直接跳到下一节就行。
+什么，你在机房？这玩意至少要弄一个小时，如果非要弄，直接跳到下一节就行。
+
+通过*VMware Workstation Player*安装是最接近考场环境的安装方式。
 
 #### 安装*VMware Workstation Player*
 
@@ -47,15 +49,13 @@ date: 2023-10-3 23:04
 
 一路点击下一步即可。
 
-然后打开它，得到这个界面。
+然后打开它，得到这个界面。直接点击继续
 
 ![image-20231003220936228](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003220936228.png)
 
-直接点击继续
+弄好后是酱紫
 
 ![image-20231003221002656](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003221002656.png)
-
-弄好后是酱紫
 
 #### 安装*NOI Linux*
 
@@ -79,11 +79,11 @@ date: 2023-10-3 23:04
 
 ![image-20231003221719880](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003221719880.png)
 
+![image-20231003221904805](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003221904805.png)
+
 然后根据自己需要选择硬盘大小，建议40GB（不会一次性占满，随着使用量的增大而增大）
 
 注意到了最后一步要**关闭网络**。
-
-![image-20231003221904805](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003221904805.png)
 
 内存和处理器根据需要调整，默认的就够用。
 
@@ -97,13 +97,15 @@ date: 2023-10-3 23:04
 
 ![image-20231003222415894](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003222415894.png)
 
+等待一段时间，切莫着急（或者你可以跳过检查）
+
 ![image-20231003222544519](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003222544519.png)
 
-等待一段时间，切莫着急（或者你可以跳过检查），然后进入*Ubuntu unity*桌面（会有清脆的开机声）
-
-![](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003222735891.png)
+然后进入*Ubuntu unity*桌面（会有清脆的开机声）
 
 > 考场上的*NOI Linux*用的也是中文
+
+![](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003222735891.png)
 
 **不要安装*VMware tools***，因为还没安装好系统
 
@@ -161,3 +163,18 @@ date: 2023-10-3 23:04
 
 ![image-20231003225900493](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003225900493.png)
 
+![image-20231003232834509](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231003232834509.png)
+
+至此，你的*NOI Linux*就安装好了。
+
+### 机房食用
+
+如果你的电脑上有预装的话，直接打开就能用。解决没有预装的难题的话就要麻烦许多。
+
+这里使用*Portable-VirtualBox*将你的*NOI Linux*安装在U盘上。注意：建议使用高速U盘或移动硬盘，否则将会非常折磨（以至于无法使用）。
+
+
+
+
+
+## 
