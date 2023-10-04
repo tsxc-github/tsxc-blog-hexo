@@ -173,8 +173,33 @@ date: 2023-10-3 23:42
 
 这里使用*Portable-VirtualBox*将你的*NOI Linux*安装在U盘上。注意：建议使用高速U盘或移动硬盘，否则将会非常折磨（以至于无法使用）。
 
+#### 安装*Portable-VirtualBox*
 
+进入官网[Portable-VirtualBox - Portable-VirtualBox (vbox.me)](https://www.vbox.me/)
 
+进行下载
 
+![image-20231004153608364](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231004153608364.png)
 
-## 
+下载好后解压到你的U盘
+
+打开软件，选择语言
+
+![image-20231004153856701](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231004153856701.png)
+
+![image-20231004153925985](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231004153925985.png)
+
+![image-20231004154434585](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231004154434585.png)
+
+等待下载完成
+
+![image-20231004154743372](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231004154743372.png)
+
+等待文件提取完成，窗口会自动关闭。
+
+找到主程序打开即可。
+
+其它的和上面的使用*VMware Workstation Player*差不多，我就不做步骤了（主要是我开了hyper-v，没法弄）
+
+![image-20231004155622069](https://cdn.jsdelivr.net/gh/tsxc-github/blog-img@main/img/image-20231004155622069.png)
+
