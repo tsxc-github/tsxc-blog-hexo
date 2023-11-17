@@ -108,3 +108,6 @@ deploy:
 
 aplayer:
   meting: true
+
+mathjax:
+  enable: true
