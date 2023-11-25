@@ -1,6 +1,7 @@
 ---
 title: NOILinux的食用方法-基础篇
-date: 2023-10-3 23:42
+date: '2023-10-3 23:42'
+abbrlink: 771e4e23
 ---
 
 当当当，应[@q1uple](https://www.luogu.com.cn/user/539133)的提议，这里火速赶出了一篇*NOI Linux*的食用方法，包含了我在网上根本没搜到的内容。
